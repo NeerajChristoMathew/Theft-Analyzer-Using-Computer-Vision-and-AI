@@ -23,9 +23,9 @@ theft-detection-ai/
 │   │   ├── train/
 │   │   ├── val/
 │   │   └── test/
-│   └── data.yaml
-├── yolov8_custom_training.ipynb
-├── detect.py
+│   └── conf.yaml
+├── train.ipynb
+├── detection.py
 ├── README.md
 ```
 
